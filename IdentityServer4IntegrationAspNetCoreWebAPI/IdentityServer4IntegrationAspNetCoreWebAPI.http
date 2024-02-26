@@ -1,0 +1,6 @@
+@IdentityServer4IntegrationAspNetCoreWebAPI_HostAddress = http://localhost:5111
+
+GET {{IdentityServer4IntegrationAspNetCoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

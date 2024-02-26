@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer4IntegrationAspNetCoreWebAPI", "IdentityServer4IntegrationAspNetCoreWebAPI\IdentityServer4IntegrationAspNetCoreWebAPI.csproj", "{EEF7EA35-A7D8-4702-9C39-CBCB57C0FA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF7EA35-A7D8-4702-9C39-CBCB57C0FA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF7EA35-A7D8-4702-9C39-CBCB57C0FA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF7EA35-A7D8-4702-9C39-CBCB57C0FA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF7EA35-A7D8-4702-9C39-CBCB57C0FA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2776ED30-A9F5-44E8-BAF3-5E9EF5DEE537}
+	EndGlobalSection
+EndGlobal
